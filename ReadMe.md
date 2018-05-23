@@ -1,0 +1,2 @@
+Java-9---A-Complete-Reference-code-snippets
+Wanting to strengthen my foundation, I decided to try and go through JCR. This repo consists my snippets as I practice. Starts with the very basics, but gets advanced.
